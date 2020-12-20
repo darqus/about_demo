@@ -27,7 +27,7 @@
  - "vue": "^2.6.11",
  - "vue-router": "^3.2.0",
  - "vuex": "^3.4.0"
- - custom sass Bootstrap v4.5.3 (customizing theme, remove Bootstrap grid system and another unused components, add custom CSS grid system)
+ - Bootstrap v4.5.3
 
 ----
 
