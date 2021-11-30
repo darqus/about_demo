@@ -1,5 +1,34 @@
 # [ДЕМО ПРОЕКТЫ](http://darqus.ru/_demo/)
 
+## 28.07.2021
+
+### Платформа Fire Blog
+
+[Preview](https://fire-blog-vue-js.web.app/)
+[Api](https://firebase.google.com/docs/reference/rest/database?hl=uk)
+
+Блог для создания и редактирования статей на платформе Firebase
+
+Возможности:
+ - просмотр статей
+ - создавать/редактировать/удалять свои статьи
+ - работа с личным кабинетом
+ - регистрация/логин/логаут на платформе
+ - редактирование личных данных
+
+Технологии:
+ - "@tiptap/extension-highlight" : "^2.0.0-beta.30"
+ - "@tiptap/extension-text-align" : "^2.0.0-beta.28"
+ - "@tiptap/starter-kit" : "^2.0.0-beta.145"
+ - "@tiptap/vue-2" : "^2.0.0-beta.69"
+ - "core-js" : "^3.19.1"
+ - "firebase" : "^9.5.0"
+ - "vue" : "^2.6.14"
+ - "vue-router" : "^3.5.3"
+ - "vuex" : "^3.6.2"
+
+----
+
 ## 11.04.2021
 
 ### Приложение Music Player
