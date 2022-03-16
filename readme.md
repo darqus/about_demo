@@ -4,7 +4,7 @@
 
 ### Поиск данных на github
 
-[Preview](https://fire-blog-vue-js.web.app/)
+[Preview](http://darqus.ru/_d/get_github_data/)
 [Api](https://api.github.com)
 
 Поиск данных на github
