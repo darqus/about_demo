@@ -1,5 +1,22 @@
 # [ДЕМО ПРОЕКТЫ](http://darqus.ru/_demo/)
 
+## 14.03.2022
+
+### Поиск данных на github
+
+[Preview](https://fire-blog-vue-js.web.app/)
+[Api](https://api.github.com)
+
+Поиск данных на github
+
+Возможности:
+ - отображение данных пользователя github
+
+Технологии:
+ - JavaScript (ES6+)
+
+----
+
 ## 28.07.2021
 
 ### Платформа Fire Blog
