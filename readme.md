@@ -1,5 +1,24 @@
 # [ДЕМО ПРОЕКТЫ](http://darqus.ru/_demo/)
 
+## 24.03.2022
+
+### Контрол для автоподбора
+
+[Preview](http://darqus.ru/_d/autocomplete/)
+[Api](https://jsonplaceholder.typicode.com/users)
+
+Поиск данных на github
+
+Возможности:
+ - автоподбор с вводом своего значения
+
+Технологии:
+ - "core-js": "^3.6.5",
+ - "vue": "^2.6.11",
+ - "vuetify": "^2.6.0"
+
+----
+
 ## 14.03.2022
 
 ### Поиск данных на github
