@@ -1,0 +1,7 @@
+{
+  "name": "about-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "publish": "./publish.sh"
+  }
+}
