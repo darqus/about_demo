@@ -4,7 +4,7 @@
 
 ### Search Star Wars in Galaxy
 
-[Preview](http://darqus.ru/_d/ssw/)
+[Preview](https://darqus.github.io/search-star-wars/dist/)
 [Api](//swapi.dev/api)
 
 Поиск объектов в галактике
