@@ -1,5 +1,17 @@
 # [ДЕМО ПРОЕКТЫ](http://darqus.ru/_demo/)
 
+## 13.05.2022
+
+### Калькулятор
+
+[Preview](http://darqus.ru/_d/calc/)
+
+Технологии:
+ - JavaScript (ES6+)
+ - sass
+
+----
+
 ## 24.03.2022
 
 ### Search Star Wars in Galaxy
