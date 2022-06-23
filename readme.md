@@ -292,7 +292,9 @@
 
 ### Приложение Поиск карточек людей
 
-[Preview](http://darqus.ru/_d/search-people/)
+[Preview](https://darqus.github.io/js-autocomplete-search/)
+
+[Mirror](http://darqus.ru/_d/search-people/)
 
 Сервис для работы с [API](//jsonplaceholder.typicode.com/users)
 
@@ -314,7 +316,7 @@
 
 Технологии:
  - JavaScript (ES6+)
- - bootsprap 4.3.1
+ - bootsprap 5.1.3
 
 ## 23.04.2019
 
