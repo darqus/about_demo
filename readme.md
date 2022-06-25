@@ -1,8 +1,9 @@
 # [ДЕМО ПРОЕКТЫ](http://darqus.ru/_demo/)
+## [GITHUB](https://darqus.github.io/about_demo/)
 
 ## 24.06.2022
 
-### Grid System
+### Grid System on CSS Grid
 
 [Preview](https://codepen.io/darqus/pen/MWQEdEb)
 [Github](https://github.com/darqus/grid-system)
