@@ -1,4 +1,41 @@
 # [ДЕМО ПРОЕКТЫ](http://darqus.ru/_demo/)
+## [GITHUB](https://darqus.github.io/about_demo/)
+
+## 24.06.2022
+
+### Grid System on CSS Grid
+
+[Preview](https://codepen.io/darqus/pen/MWQEdEb)
+[Github](https://github.com/darqus/grid-system)
+
+Возможности:
+- Grid CSS template sticky Header and Footer.
+- Grid system implemented only Grid CSS.
+- Grid system use dinamic rows 2, 3, 4, 5, 6 or 12 columns.
+- Containers not use padding, only Grid CSS magic
+- Use SASS mixin to implement media query to view on all devices
+- Use mobile first design pattern
+- Click on checkbox to toogle see Grid
+
+
+Технологии:
+ - JavaScript (ES6+)
+ - CSS Grid
+ - SASS
+
+----
+
+## 13.05.2022
+
+### Калькулятор
+
+[Preview](http://darqus.ru/_d/calc/)
+
+Технологии:
+ - JavaScript (ES6+)
+ - SASS
+
+----
 
 ## 13.05.2022
 
