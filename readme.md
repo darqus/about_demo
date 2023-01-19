@@ -1,4 +1,4 @@
-#  [github](https://darqus.github.io/about_demo/dist/) [mirror](http://darqus.ru/_demo/)
+#  [preview in github](https://darqus.github.io/about_demo/dist/) | [mirror](http://darqus.ru/_demo/)
 
 ## [about](https://darqus.github.io/about_demo/)
 
