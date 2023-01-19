@@ -1,5 +1,6 @@
-# [ДЕМО ПРОЕКТЫ](http://darqus.ru/_demo/)
-## [GITHUB](https://darqus.github.io/about_demo/)
+#  [preview in github](https://darqus.github.io/about_demo/dist/) | [mirror](http://darqus.ru/_demo/)
+
+## [about](https://darqus.github.io/about_demo/)
 
 ## 24.06.2022
 
